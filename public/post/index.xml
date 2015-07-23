@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Posts on Natsumi.M </title>
+    <link>http://localhost:1313/post/</link>
+    <language>en-us</language>
+    <author>Alexander Ivanov</author>
+    <updated>2015-07-23 12:52:18 &#43;0900 JST</updated>
+    
+    <item>
+      <title>sample2</title>
+      <link>http://localhost:1313/post/sample2/</link>
+      <pubDate>Thu, 23 Jul 2015 12:52:18 JST</pubDate>
+      <author>Alexander Ivanov</author>
+      <guid>http://localhost:1313/post/sample2/</guid>
+      <description>
+
+&lt;h1 id=&#34;二回目の投稿:e7463e2022a82b7044fc171cacb9589f&#34;&gt;二回目の投稿&lt;/h1&gt;
+
+&lt;p&gt;今度こそは。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>sample</title>
+      <link>http://localhost:1313/post/sample/</link>
+      <pubDate>Thu, 23 Jul 2015 11:37:43 JST</pubDate>
+      <author>Alexander Ivanov</author>
+      <guid>http://localhost:1313/post/sample/</guid>
+      <description>
+
+&lt;h1 id=&#34;初投稿:7cce010dc015a937e6841b4e289c7b7d&#34;&gt;初投稿&lt;/h1&gt;
+
+&lt;p&gt;きちんと投稿できていると嬉しい。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
