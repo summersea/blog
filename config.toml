@@ -1,0 +1,10 @@
+baseurl = "http://replace-this-with-your-hugo-site.com/"
+languageCode = "ja"
+title = "Natsumi.M"
+disqusShortname = ""
+
+[Params]
+subtitle = ""
+facebook = ""
+twitter = ""
+github = "https://github.com/summersea"
